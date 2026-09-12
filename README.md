@@ -235,3 +235,6 @@ This repository serves as the official landing page for Kratos Reborn. The softw
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Kratos Reborn today!**
+
+---
+**Last updated:** 2026-09-12 18:12:56 UTC
